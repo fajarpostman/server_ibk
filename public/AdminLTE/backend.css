@@ -1,0 +1,81 @@
+/*
+CUSTOM CSS FOR LOGIN
+
+BIRU MUDA             = #1E88BC
+BIRU TUA              = #0D2F8B
+BIRU TUA DARKEN       = #061745
+MERAH                 = #FF3300
+ABU-ABU               = #666666
+PUTIH                 = #FFFFFF
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-footer {
+    background-color: #061745 !important;
+}
+
+.skin-blue .main-header .logo {
+    background-color: #0D2F8B;
+}
+
+.skin-blue:hover .main-header:hover .logo:hover {
+    background-color: #061745;
+}
+
+.skin-blue:hover .main-header:hover .navbar:hover .sidebar-toggle:hover {
+    background-color: #061745;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: #0D2F8B;
+}
+
+.skin-blue .main-sidebar {
+    background-color: #0D2F8B;
+}
+
+.sidebar-menu>li {
+    background-color: #0D2F8B;
+}
+
+.skin-blue .sidebar-menu>li:hover>a {
+    color: #FFFFFF;
+    background: #061745;
+}
+
+.sidebar-menu>li>a {
+    color: #FFFFFF;
+}
+
+.skin-blue .sidebar-menu>li.active>a {
+    border-left-color: #FFFFFF;
+}
+
+.skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li.menu-open>a {
+    color: #FFFFFF;
+    background: #061745;
+}
+
+.skin-blue .sidebar-menu>li>.treeview-menu {
+    background: #002E61;
+}
+
+.skin-blue .sidebar-menu .treeview-menu>li>a {
+    color: #dbe0e4;
+}
+
+/* .content-wrapper {
+    background-color: #FFFFFF;
+} */
+
+/* .btn-primary {
+    background-color: #FF3300;
+    border-color: #FF3300;
+} */
+
+.checkbox {
+    color: #1E88BC;
+}

@@ -1,0 +1,35 @@
+/*
+CUSTOM CSS FOR LOGIN
+
+BIRU MUDA   = #1E88BC
+BIRU TUA    = #0D2F8B
+MERAH       = #FF3300
+ABU-ABU     = #666666
+PUTIH       = #FFFFFF
+*/
+
+.login-page, .register-page {
+    background: #0D2F8B !important;
+}
+
+.login-box-body, .register-box-body {
+    border-radius: 5px;
+    background: #fff !important;
+}
+
+.btn-primary {
+    background-color: #FF3300 !important;
+    border-color: #FF3300 !important;
+}
+
+.login-box-body a {
+    color: #1E88BC !important;
+}
+
+.login-box-msg {
+    color: #1E88BC !important;
+}
+
+.checkbox {
+    color: #1E88BC !important;
+}
